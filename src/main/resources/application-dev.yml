@@ -22,3 +22,7 @@ spring:
     platform: h2
     hikari:
       maximum-pool-size: 5
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
