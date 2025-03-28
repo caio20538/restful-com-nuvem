@@ -29,30 +29,29 @@
 //    }
 //}
 //
-////{
-////        "name": "caio",
-////        "account": {
-////        "number": "00000-00",
-////        "agency": "000",
-////        "balance": 10000.00,
-////        "limit": 10000.00
-////        },
-////        "features": [
-////        {
-////        "icon": "URL",
-////        "description": "Description of Features"
-////        }
-////        ],
-////        "card": {
-////        "number": "xxxx xxxx xxxx 0000",
-////        "limit": 10000.00
-////        },
-////        "news": [
-////        {
-////        "icon": "URL",
-////        "description": "Description of News"
-////        }
-////        ]
-////        }
+//{
+//        "name": "caio",
+//        "account": {
+//        "number": "00000-00",
+//        "agency": "000",
+//        "balance": 10000.00,
+//        "limit": 10000.00
+//        },
+//        "features": [
+//        {
+//        "icon": "URL",
+//        "description": "Description of Features"
+//        }
+//        ],
+//        "card": {
+//        "number": "xxxx xxxx xxxx 0000",
+//        "limit": 10000.00
+//        },
+//        "news": [
+//        {
+//        "icon": "URL",
+//        "description": "Description of News"
+//        }
+//        ]
+//        }
 
-// tratamento de Exceções em APIs REST

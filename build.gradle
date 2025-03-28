@@ -40,6 +40,12 @@ dependencyManagement {
 	}
 }
 
+tasks.jar {
+	manifest{
+		attributes["Main-class"] = "com.dio.restful_com_nuvem.Application"
+	}
+}
+
 tasks.named('test') {
 	useJUnitPlatform()
 }
